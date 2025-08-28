@@ -1,0 +1,37 @@
+.custom-card {
+    margin-bottom: 30px;
+}
+
+.custom-image {
+    width: 100% !important;
+    height: 200px !important;
+}
+
+.user-image {
+    width: 40px !important;
+    height: 40px;
+    border-radius: 50% !important;
+}
+
+.user-data>span {
+    margin-left: 17px;
+    color: #c372ff;
+    font-weight: 500;
+}
+
+.video-minutes {
+    margin-bottom: 0 !important;
+    margin-left: 120px !important;
+    font-size: 16px;
+    color: #c372ff;
+}
+
+.card-title {
+    font-weight: bold !important;
+    font-size: 17px !important;
+}
+
+.star {
+    color: #c372ff;
+    font-size: 17px;
+}
